@@ -1,6 +1,6 @@
 # ShopNest
 
-ShopNest is a web application for balloon decoration services and product sales, built with React, TypeScript, Tailwind CSS, and a PHP backend.
+ShopNest is a E-Commerce web application, built with React, TypeScript, Tailwind CSS, and a PHP backend.
 
 ## Quick start (development)
 
