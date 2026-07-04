@@ -51,7 +51,6 @@ Backend
 ## Features (high level)
 - User authentication (register, login, password reset)
 - Product catalog, cart, wishlist
-- Service booking for balloon decorations
 - Razorpay payment integration
 - Admin panel to manage products, orders, and bookings
 
