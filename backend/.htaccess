@@ -1,0 +1,6 @@
+# Stop all rewrite rules for this directory, so the parent .htaccess file doesn't interfere.
+RewriteEngine On
+RewriteRule . - [L]
+
+# Keep the existing rule for authorization headers
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1 

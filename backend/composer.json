@@ -1,0 +1,19 @@
+{
+    "name": "rupeshkumar/backend",
+    "autoload": {
+        "psr-4": {
+            "Rupeshkumar\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rupesh Kumar",
+            "email": "23it182@skcet.ac.in"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "razorpay/razorpay": "^2.9",
+        "firebase/php-jwt": "^6.11"
+    }
+}
